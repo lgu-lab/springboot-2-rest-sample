@@ -1,0 +1,18 @@
+
+1 - pom.xml
+ 
+2 - Add main class : Application.java
+ 
+ Run as Java application 
+ 
+ Test : http://localhost:8080/  --> Error 404 
+ 
+ 
+3 - Add the controller : HelloController.java
+ 
+ Run as Java application 
+ 
+ Test : http://localhost:8080/  --> hello world
+ 
+ 
+ 

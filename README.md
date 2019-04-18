@@ -1,0 +1,1 @@
+REST basic example with Springboot 2.0.0 
